@@ -1,4 +1,3 @@
-layout_spectrum: 0.996482722228393
 typography_spectrum: 0.5570414350368083
 color:
   brandStrength: 0.6576383735518903
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.996482722228393
 name: righteous rebel
 title: Rabbi David Paskin
+description: The Rock n'Roll Rabbi and the World Wide Reb
